@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+.env
+/hour.csv
+backend/data/hour.csv
+backend/models/artifacts/*.joblib
+backend/models/artifacts/*.json
+.DS_Store
